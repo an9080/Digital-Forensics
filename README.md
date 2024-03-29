@@ -18,3 +18,9 @@ To learn Windows Logs:
 	  https://www.malwarearchaeology.com/cheat-sheets/
 	* SANS Posters:
 	  https://www.sans.org/posters/
+
+Documents:
+	* windows-forensics-analysis-v-1.0-4.pdf by Mohammed AlHumaid.
+ 	* Windows Event Log Analysis & Incident Response Guide by cybersecuritynews
+  	* The Windows Process Journey by Shlomi Boutnaru
+	
